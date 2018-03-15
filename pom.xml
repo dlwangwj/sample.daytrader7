@@ -37,5 +37,8 @@
 		<module>daytrader-ee7</module>
         <module>daytrader-ee7-wlpcfg</module>
     </modules>
+	<build>
+		<defaultGoal>compile</defaultGoal>
+	</build>
 
 </project>
